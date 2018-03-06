@@ -10,3 +10,9 @@
 
 2. 通过网络资源了解模块信息
 3. 查看模块源码了解模块信息
+
+
+### python命令规范
+1.class命名为骆驼命令法，如：class UserInfo(Object)
+2.包命名为字母全部小写,如：aiomysql
+2.函命名为字母全部小写，不同单词以下划线分隔,如：def server_error
